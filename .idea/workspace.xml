@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bce1671-5a46-44b0-b925-e0c8aa17aa65" name="Changes" comment="" />
+    <list default="true" id="3bce1671-5a46-44b0-b925-e0c8aa17aa65" name="Changes" comment="Создаю коммит для домашки, загружаю в репозиторий на гит" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develope" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/milkabu264-png/-.git",
+    "accountId": "21f989d9-6064-49db-bb9a-a46fe62b338b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -18,7 +32,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/homework__10__1"
   }
 }]]></component>
   <component name="RunManager">
@@ -61,17 +76,39 @@
       <option name="presentableId" value="Default" />
       <updated>1772550179840</updated>
     </task>
+    <task id="LOCAL-00001" summary="Просто создала для домашки">
+      <option name="closed" value="true" />
+      <created>1772550287482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772550287482</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Создаю коммит для домашки, загружаю в репозиторий на гит">
+      <option name="closed" value="true" />
+      <created>1772550581885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772550581885</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Просто создала для домашки" />
+    <MESSAGE value="Создаю коммит для домашки, загружаю в репозиторий на гит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создаю коммит для домашки, загружаю в репозиторий на гит" />
   </component>
 </project>
